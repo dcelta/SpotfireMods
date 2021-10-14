@@ -1,0 +1,9 @@
+{
+	"name": "djcdatafactory999",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9febfbb8-8895-4f27-b5c8-aed862e3f8f6",
+		"tenantId": "f8a1376f-b656-4107-8ebe-0e8fdb1a9930"
+	}
+}
